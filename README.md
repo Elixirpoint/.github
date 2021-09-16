@@ -1,2 +1,2 @@
 # .github
-GitHub community health files for my profile
+GitHub community health files for the org
